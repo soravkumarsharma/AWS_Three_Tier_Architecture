@@ -1,0 +1,5 @@
+aws_region    = "us-east-1"
+bucket_name   = "devops-soravks"
+iam_role_name = "ec2_role"
+vpc_name      = "three_tier_vpc"
+vpc_cidr      = "10.0.0.0/16"
